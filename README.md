@@ -15,8 +15,6 @@
 - Silver Dynamic AGM 570 901 076 ([ссылка](https://www.varta-automotive.com/en-gb/products/varta-silver-dynamic-agm/570-901-076))
 - Bosch S5 AGM 70Ah/760A
 
-### Фото старого аккума
-
 ## Тех. обслуживание
 
 > Nissan Qashqai 2018 (декабрь), в эксплуатации 48 месяцев с января 2019, 1.6 дизель, вариатор, передний привод, пробег ~22 тыс. км.
